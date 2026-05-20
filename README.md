@@ -5,7 +5,7 @@ The project focuses on clean component architecture, responsive layouts, reusabl
 
 ---
 
-# 🚀 Live Features
+# Live Features
 
 - Pixel-perfect UI implementation
 - Responsive dashboard layout
@@ -71,3 +71,38 @@ figma-assignment/
 └── README.md
 
 
+# Key Functionalities
+1. Responsive Layout
+Optimized for:
+Mobile Devices
+Tablets
+Desktop Screens
+2. Interactive Coupon Selection
+Built using React useState
+Dynamically updates selected coupon styles
+3. Modern UI Interactions
+Hover animations
+Focus animations
+Smooth transitions
+Interactive buttons and cards
+4. Reusable Components
+Buttons
+Search bar
+Badges
+Layout wrappers
+Dashboard cards
+
+# Styling Approach
+The project uses:
+Tailwind CSS utility-first styling
+Custom design tokens
+Responsive utility classes
+Consistent spacing and typography
+
+# The UI strictly follows the provided Figma design specifications including:
+Typography
+Spacing
+Border radius
+Shadows
+Color palette
+Layout structure
