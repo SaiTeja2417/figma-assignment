@@ -69,8 +69,7 @@ figma-assignment/
 ├── postcss.config.js
 ├── package.json
 └── README.md
-
-
+```
 # Key Functionalities
 1. Responsive Layout
 Optimized for:
@@ -106,3 +105,42 @@ Border radius
 Shadows
 Color palette
 Layout structure
+
+# Setup Instructions
+1. Clone Repository
+git clone [https://github.com/your-username/figma-assignment.git](https://github.com/SaiTeja2417/figma-assignment)
+2. Navigate into Project
+cd figma-assignment
+3. Install Dependencies
+npm install
+4. Run Development Server
+npm run dev
+
+# Code Quality & Best Practices
+Clean component structure
+Reusable UI components
+Consistent naming conventions
+Responsive-first approach
+Removed unnecessary console logs
+Proper formatting and indentation
+Modular and maintainable architecture
+
+# State Management Decisions
+React useState hooks were used for:
+
+Coupon selection states
+Interactive UI handling
+Dynamic styling updates
+
+The project intentionally avoids unnecessary global state management libraries to keep the implementation lightweight and maintainable.
+# UI Highlights
+Billing Information Form
+Order Summary Panel
+Interactive Coupon Cards
+Upgrade Plan CTA
+Responsive Header Navigation
+Animated Input Focus States
+
+# Submission
+GitHub Repository Link:
+[https://github.com/your-username/figma-assignment](https://github.com/SaiTeja2417/figma-assignment)
